@@ -1,0 +1,17 @@
+
+# ARCHIVE VERIFICATION REPORT
+
+Archive: haian_investigation_archive_20260326_141041.zip
+Verification Date: 2026-03-26T14:10:41.271916
+
+## Results
+- Verified Files: 20
+- Failed Files: 2
+- Errors: 2
+
+## Status
+FAILED
+
+## Errors
+- Hash mismatch for haian_investigation_archive_20260326_141041_evidence_summary.md: expected None, got 1c1963daf4276288d0e5092f82e127d91d10555bbd9ba390c51ebb4eaf68ea16
+- Hash mismatch for haian_investigation_archive_20260326_141041_manifest.json: expected None, got 847361ca3bb57631c00d70c95dc5c2bd61c2e78b32ffcd1473f484c109817aa5

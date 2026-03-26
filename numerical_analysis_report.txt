@@ -1,0 +1,97 @@
+============================================================
+NUMERICAL PATTERN ANALYSIS REPORT
+============================================================
+
+FREQUENCY ANALYSIS:
+Total numbers: 43
+Unique numbers: 13
+Mean: 145.30
+Median: 4
+Range: 0 - 1000
+
+Top 10 most common numbers:
+  0: 9 occurrences
+  64: 7 occurrences
+  1000: 4 occurrences
+  2: 4 occurrences
+  1: 4 occurrences
+  3: 3 occurrences
+  5: 3 occurrences
+  4: 2 occurrences
+  20: 2 occurrences
+  500: 2 occurrences
+
+MATHEMATICAL PATTERNS:
+Type: prime_concentration
+Significance: High
+Count: 4
+Examples: [2, 3, 5, 7]
+
+Type: fibonacci_pattern
+Significance: Medium
+Count: 14
+Examples: [2, 1, 3, 1, 2, 3, 1, 5, 5, 2]
+
+Type: powers_of_2
+Significance: Medium
+Count: 4
+Examples: [1, 2, 4, 64]
+
+CRYPTOGRAPHIC POTENTIAL:
+Type: key_length_candidates
+Significance: High
+Examples: [64, 64, 64, 64, 64, 64, 64]
+
+Type: ascii_candidates
+Significance: Medium
+Count: 7
+Examples: [64, 64, 64, 64, 64, 64, 64]
+
+Type: modulo_pattern
+Significance: Low
+
+Type: modulo_pattern
+Significance: Low
+
+Type: modulo_pattern
+Significance: Low
+
+Type: modulo_pattern
+Significance: Low
+
+Type: modulo_pattern
+Significance: Low
+
+Type: modulo_pattern
+Significance: Low
+
+Type: modulo_pattern
+Significance: Low
+
+Type: modulo_pattern
+Significance: Low
+
+Type: modulo_pattern
+Significance: Low
+
+Type: modulo_pattern
+Significance: Low
+
+Type: modulo_pattern
+Significance: Low
+
+POTENTIAL COORDINATES:
+  0, 0 (index: 0)
+  2, 1 (index: 3)
+  0, 3 (index: 7)
+  3, 1 (index: 8)
+  1, 2 (index: 9)
+  2, 3 (index: 10)
+  3, 1 (index: 11)
+  1, 5 (index: 12)
+  5, 5 (index: 13)
+  5, 4 (index: 14)
+
+============================================================
+END OF REPORT
+============================================================

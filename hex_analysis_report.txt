@@ -1,0 +1,45 @@
+======================================================================
+ADVANCED HEX ANALYSIS REPORT
+======================================================================
+
+LSB EXTRACTION RESULTS:
+Extracted 12438 characters
+First 200 characters:
+opQ|TXT~jF2~6333333333333333333332a^Vn3aW479gGXoaKo3Uw}ffffffffffffffffffei$p<_aM0<IUO@sn%pl,_G8X"?9_<+OHPy.N]%g/3SgDFKyPY^>;9ed[$!(Vh%qi?je}p./9KDh0C6Vw"$!2P#0m9i#4<UNP@spVCe:6],ZP+ZkD~;H*MRQ2v^t}B}l
+
+Numbers found in LSB data: 1215
+Examples: ['2', '6333333333333333333332', '3', '479', '3', '0', '8', '9', '3', '9', '9', '0', '6', '2', '0', '9', '4', '6', '2', '6']
+
+HIDDEN STRINGS: None found
+
+BYTE PATTERN ANALYSIS:
+Null bytes (0x00): 2402
+FF bytes (0xFF): 666
+
+Repeating sequences (first 10):
+  Position 11: 0x01 repeated
+  Position 25: 0x01 repeated
+  Position 26: 0x01 repeated
+  Position 27: 0x01 repeated
+  Position 28: 0x01 repeated
+  Position 29: 0x01 repeated
+  Position 30: 0x01 repeated
+  Position 31: 0x01 repeated
+  Position 32: 0x01 repeated
+  Position 33: 0x01 repeated
+
+Suspicious clusters (first 10):
+  Position 3: Average value 52.9
+  Position 4: Average value 30.6
+  Position 5: Average value 30.6
+  Position 6: Average value 36.2
+  Position 7: Average value 28.8
+  Position 8: Average value 29.0
+  Position 9: Average value 21.7
+  Position 10: Average value 14.7
+  Position 11: Average value 40.2
+  Position 18: Average value 54.4
+
+======================================================================
+END OF ANALYSIS
+======================================================================

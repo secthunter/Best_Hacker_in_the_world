@@ -1,0 +1,172 @@
+{
+  "archive_created": "2026-03-26T14:10:41.106663",
+  "investigation_name": "Haian Case - Deep Forensic Research",
+  "case_number": "HAIAN-2011-2026-001",
+  "classification": "TOP SECRET",
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "size": 8261,
+      "modified": "2026-03-26T12:53:32.908361",
+      "hash": "05e6951275f5f5f0b2d0e084c297fe7d43bae6faa8e5fd6aa15b9f6f48967c45",
+      "type": "file"
+    },
+    {
+      "path": "comprehensive_investigation_summary.md",
+      "size": 7836,
+      "modified": "2026-03-26T14:05:43.229265",
+      "hash": "46bf7924603a0d44776987fff931a0b0c83139048bb0aadf33c2add050d13063",
+      "type": "file"
+    },
+    {
+      "path": "directory_scanner.py",
+      "size": 9714,
+      "modified": "2026-03-26T14:09:23.355682",
+      "hash": "337e0ed2dba12f89ac32ac95a6b68f8a38835459b3cf7fc74579c1403ec8c17e",
+      "type": "file"
+    },
+    {
+      "path": "directory_scan_report.txt",
+      "size": 632,
+      "modified": "2026-03-26T14:09:53.742607",
+      "hash": "4043a5c6d873b9d3cf66d9350b1c8f97c156c1ab4cd59cdda6d9ff526d7611ed",
+      "type": "file"
+    },
+    {
+      "path": "extracted_numbers.txt",
+      "size": 156,
+      "modified": "2026-03-26T14:01:12.052273",
+      "hash": "8a6964c9997ad4543f0481fa2ca38669bc48cd4e1f722cc7abbd1de85564dc9c",
+      "type": "file"
+    },
+    {
+      "path": "extract_numbers.py",
+      "size": 932,
+      "modified": "2026-03-26T14:01:04.009920",
+      "hash": "6b09f33ac96097994f65cf0a396f694c3ff0c6d2433b457fa1ee4cbed35fb4f4",
+      "type": "file"
+    },
+    {
+      "path": "extract_strings.ps1",
+      "size": 395,
+      "modified": "2026-03-26T12:45:15.903036",
+      "hash": "b6a5e6d8bd5c3fc1b7e20de380938dbaf68f5a0129477b29f00108eee4d30860",
+      "type": "file"
+    },
+    {
+      "path": "haian_de_source.html",
+      "size": 17420,
+      "modified": "2026-03-26T12:43:08.214087",
+      "hash": "967510316232720ad28b569a11510e73fb5791c6421ff3872033eb75f42fc6f6",
+      "type": "file"
+    },
+    {
+      "path": "haian_image.jpg",
+      "size": 269508,
+      "modified": "2026-03-26T12:43:29.394855",
+      "hash": "4dd26e4ffd0367443b873b902454a9e87c84d0140a574cd1d55fb8a196794b4d",
+      "type": "file"
+    },
+    {
+      "path": "hex_analysis.py",
+      "size": 6785,
+      "modified": "2026-03-26T14:01:53.020665",
+      "hash": "d6f2533214b1e2d8a3277e136ed9768e627b43d35eaf04b1fbe94039d8cc9ae2",
+      "type": "file"
+    },
+    {
+      "path": "hex_analysis_report.txt",
+      "size": 1601,
+      "modified": "2026-03-26T14:02:23.871956",
+      "hash": "d4dd79d378e72958f6f33b64ab23fde2d0062ef8179c3bffb1584f4330a295e2",
+      "type": "file"
+    },
+    {
+      "path": "investigation_archive.py",
+      "size": 13804,
+      "modified": "2026-03-26T14:10:31.837066",
+      "hash": "b16fe437b6381f9fca61b9ddb8d4967df17bed00395a8beb8cf95bfbabfa2714",
+      "type": "file"
+    },
+    {
+      "path": "librandom_investigation_report.txt",
+      "size": 1522,
+      "modified": "2026-03-26T14:04:53.786302",
+      "hash": "72063b23638274952b1b886545deaf23f88f5427eeb426b42df634e2e4cb35ff",
+      "type": "file"
+    },
+    {
+      "path": "librandom_investigator.py",
+      "size": 14292,
+      "modified": "2026-03-26T14:04:29.487172",
+      "hash": "5e5b81f1d1b813ed58516498c41c5df60fd92b9c57899e5e02ea25e24ecf1b42",
+      "type": "file"
+    },
+    {
+      "path": "numerical_analysis.py",
+      "size": 11249,
+      "modified": "2026-03-26T12:54:02.529853",
+      "hash": "321f1fb0c6df251dd4a4f97babf8e2f3eb42da0863b135ffe8c63b9cfa4e5e9f",
+      "type": "file"
+    },
+    {
+      "path": "numerical_analysis_report.txt",
+      "size": 1836,
+      "modified": "2026-03-26T14:00:53.051036",
+      "hash": "84745ff1625c133f618e071c289734cd8786c0b96ef1285c87247846ea9c6c7f",
+      "type": "file"
+    },
+    {
+      "path": "puzzle_file_analysis_report.txt",
+      "size": 2811,
+      "modified": "2026-03-26T14:05:25.582176",
+      "hash": "69dbee27205b12fbaea42222c807d47b6baad48347bc8e58896fe7b3ea290a3f",
+      "type": "file"
+    },
+    {
+      "path": "puzzle_file_analyzer.py",
+      "size": 13375,
+      "modified": "2026-03-26T14:05:14.908479",
+      "hash": "38fd762463739713916ba1316aa8d8a33e2f4b424d392bddaadacf0925925bea",
+      "type": "file"
+    },
+    {
+      "path": "README.md",
+      "size": 5197,
+      "modified": "2026-03-26T12:52:55.859092",
+      "hash": "1c72a127523f4eb4c960aff6fa48bbfd744aced99ca9b30042e3068bcc11a6ef",
+      "type": "file"
+    },
+    {
+      "path": "steganography_analysis.ps1",
+      "size": 2919,
+      "modified": "2026-03-26T12:46:35.181189",
+      "hash": "3e36ffa4b8c9010703205c7c7ecc4493ab4610f6bd6a094db6e247b8968e5247",
+      "type": "file"
+    }
+  ],
+  "total_files": 20,
+  "total_size": 390245,
+  "evidence_integrity": {
+    "AGENTS.md": "05e6951275f5f5f0b2d0e084c297fe7d43bae6faa8e5fd6aa15b9f6f48967c45",
+    "comprehensive_investigation_summary.md": "46bf7924603a0d44776987fff931a0b0c83139048bb0aadf33c2add050d13063",
+    "directory_scanner.py": "337e0ed2dba12f89ac32ac95a6b68f8a38835459b3cf7fc74579c1403ec8c17e",
+    "directory_scan_report.txt": "4043a5c6d873b9d3cf66d9350b1c8f97c156c1ab4cd59cdda6d9ff526d7611ed",
+    "extracted_numbers.txt": "8a6964c9997ad4543f0481fa2ca38669bc48cd4e1f722cc7abbd1de85564dc9c",
+    "extract_numbers.py": "6b09f33ac96097994f65cf0a396f694c3ff0c6d2433b457fa1ee4cbed35fb4f4",
+    "extract_strings.ps1": "b6a5e6d8bd5c3fc1b7e20de380938dbaf68f5a0129477b29f00108eee4d30860",
+    "haian_de_source.html": "967510316232720ad28b569a11510e73fb5791c6421ff3872033eb75f42fc6f6",
+    "haian_image.jpg": "4dd26e4ffd0367443b873b902454a9e87c84d0140a574cd1d55fb8a196794b4d",
+    "hex_analysis.py": "d6f2533214b1e2d8a3277e136ed9768e627b43d35eaf04b1fbe94039d8cc9ae2",
+    "hex_analysis_report.txt": "d4dd79d378e72958f6f33b64ab23fde2d0062ef8179c3bffb1584f4330a295e2",
+    "investigation_archive.py": "b16fe437b6381f9fca61b9ddb8d4967df17bed00395a8beb8cf95bfbabfa2714",
+    "librandom_investigation_report.txt": "72063b23638274952b1b886545deaf23f88f5427eeb426b42df634e2e4cb35ff",
+    "librandom_investigator.py": "5e5b81f1d1b813ed58516498c41c5df60fd92b9c57899e5e02ea25e24ecf1b42",
+    "numerical_analysis.py": "321f1fb0c6df251dd4a4f97babf8e2f3eb42da0863b135ffe8c63b9cfa4e5e9f",
+    "numerical_analysis_report.txt": "84745ff1625c133f618e071c289734cd8786c0b96ef1285c87247846ea9c6c7f",
+    "puzzle_file_analysis_report.txt": "69dbee27205b12fbaea42222c807d47b6baad48347bc8e58896fe7b3ea290a3f",
+    "puzzle_file_analyzer.py": "38fd762463739713916ba1316aa8d8a33e2f4b424d392bddaadacf0925925bea",
+    "README.md": "1c72a127523f4eb4c960aff6fa48bbfd744aced99ca9b30042e3068bcc11a6ef",
+    "steganography_analysis.ps1": "3e36ffa4b8c9010703205c7c7ecc4493ab4610f6bd6a094db6e247b8968e5247"
+  }
+}
